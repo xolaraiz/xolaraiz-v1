@@ -119,7 +119,7 @@ export default function HeroSection({
                 <div className="relative w-24 h-24 sm:w-28 sm:h-28 rounded-full overflow-hidden ring-2 ring-[#D4AF37]/70 bg-white shrink-0 flex items-center justify-center">
                   {!crestError ? (
                     <img
-                      src="/assets/aistudio/29228_0419e174.jpg"
+                      src="./assets/aistudio/29228_0419e174.jpg"
                       alt="XOLARAIZ X ECO Solar official crest emblem"
                       referrerPolicy="no-referrer"
                       onError={() => setCrestError(true)}

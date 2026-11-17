@@ -14,7 +14,7 @@ export default function Footer() {
             <div className="w-12 h-12 rounded-full overflow-hidden ring-1 ring-[#D4AF37]/60 bg-white shrink-0 flex items-center justify-center">
               {!logoError ? (
                 <img
-                  src="/assets/aistudio/29228_0419e174.jpg"
+                  src="./assets/aistudio/29228_0419e174.jpg"
                   alt="XOLARAIZ X ECO Solar Crest"
                   referrerPolicy="no-referrer"
                   onError={() => setLogoError(true)}
