@@ -1,0 +1,6 @@
+{
+  "name": "XOLARAIZ",
+  "description": "Precision solar cell design, engineering, installation services, and turnkey residential and commercial solar packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
